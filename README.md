@@ -1,9 +1,10 @@
 # Raytracer
 
-Requirements:
+Dependencies:
 
  * convert (for converting ppm to png)
  * gcc
+ * eog (for opening the render)
 
 How to run (this will also recompile the code):
 
