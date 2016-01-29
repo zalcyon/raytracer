@@ -3,7 +3,7 @@
 Dependencies:
 
  * convert (for converting ppm to png)
- * gcc
+ * clang++
  * eog (for opening the render)
 
 How to run (this will also recompile the code):
